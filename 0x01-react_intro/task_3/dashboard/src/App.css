@@ -1,0 +1,29 @@
+.App{
+  min-height: 100vh;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.App-header {
+  display: flex;
+  color: red;
+}
+
+hr {
+  border: 2px solid red;
+}
+
+.App-body {
+  min-height: 70vh;
+  margin: 64px;
+}
+
+.App-footer {
+  text-align: center;
+  font-style: italic;
+  font-size: 1rem;
+  padding: 1.2rem;
+}
+
+form input {
+  margin: 10px;
+}
