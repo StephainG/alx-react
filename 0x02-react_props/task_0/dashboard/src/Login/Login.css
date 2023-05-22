@@ -1,0 +1,10 @@
+.App-body {
+    font-size: 1rem;
+    border-bottom: 3px solid red;
+    min-height: 70vh;
+    margin: 64px;
+  }
+  
+  form input {
+    margin: 10px;
+  }
