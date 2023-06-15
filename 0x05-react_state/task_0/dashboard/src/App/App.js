@@ -83,7 +83,8 @@ class App extends React.Component {
 				<BodySection title='News from the School'>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-						eiusmod tempor incididunt ut labore et dolore magna aliqua.{' '}
+						eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+						eiusmod tempor incididunt ut labore et dolore magna aliqua{' '}
 					</p>
 				</BodySection>
 				<hr className={css(styles.hr)} />
